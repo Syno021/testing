@@ -16,7 +16,7 @@ export default function HomeScreen() {
             AI-powered crop protection
           </ThemedText>
           <ThemedText type="title" style={styles.appName}>
-            HarvestGuard
+            HarvestGuard for all crops
           </ThemedText>
           <ThemedText style={styles.appSubtitle}>
             One home for weather, disease alerts, and farmer knowledge – built to stop crop loss before
